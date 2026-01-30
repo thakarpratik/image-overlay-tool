@@ -8,8 +8,7 @@ export default function Home() {
             OverlayPro
           </div>
           <div className="flex gap-3 sm:gap-6 items-center text-sm sm:text-base">
-            <a href="/features" className="text-gray-600 hover:text-gray-900 hidden sm:block">Features</a>
-            <a href="/contact" className="text-gray-600 hover:text-gray-900 hidden md:block">Contact</a>
+            <a href="#features" className="text-gray-600 hover:text-gray-900 hidden sm:block">Features</a>
             <a href="/tool" className="bg-blue-600 text-white px-4 sm:px-6 py-2 rounded-full hover:bg-blue-700 transition text-sm sm:text-base">
               Launch Tool
             </a>
@@ -204,10 +203,9 @@ export default function Home() {
               OverlayPro
             </div>
             <div className="flex gap-6 sm:gap-8 text-gray-600 text-sm sm:text-base">
-              <a href="/features" className="hover:text-gray-900">Features</a>
-              <a href="/privacy" className="hover:text-gray-900">Privacy</a>
-              <a href="/terms" className="hover:text-gray-900">Terms</a>
-              <a href="/contact" className="hover:text-gray-900">Contact</a>
+              <a href="#" className="hover:text-gray-900">Twitter</a>
+              <a href="#" className="hover:text-gray-900">Instagram</a>
+              <a href="#" className="hover:text-gray-900">Contact</a>
             </div>
           </div>
           <div className="mt-6 sm:mt-8 text-center text-gray-500 text-xs sm:text-sm">
